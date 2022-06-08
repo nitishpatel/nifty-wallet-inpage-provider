@@ -1,5 +1,5 @@
 {
-  "name": "nifty-wallet-inpage-provider",
+  "name": "xdcpay-wallet-inpage-provider",
   "version": "1.2.3",
   "description": "An ethereum provider that connects over a WebExtension port.",
   "main": "index.js",
