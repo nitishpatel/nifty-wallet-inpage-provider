@@ -159,6 +159,8 @@ MetamaskInpageProvider.prototype.isConnected = function () {
 
 MetamaskInpageProvider.prototype.isMetaMask = true
 
+MetamaskInpageProvider.prototype.isNiftyWallet = true
+
 // util
 
 function logStreamDisconnectWarning (remoteLabel, err) {
