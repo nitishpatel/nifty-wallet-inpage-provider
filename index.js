@@ -167,7 +167,7 @@ MetamaskInpageProvider.prototype.isConnected = function () {
 
 // MetamaskInpageProvider.prototype.isMetaMask = true;
 
-MetamaskInpageProvider.prototype.isXDCPayWallet = true;
+MetamaskInpageProvider.prototype.isXDCPay = true;
 
 // util
 
