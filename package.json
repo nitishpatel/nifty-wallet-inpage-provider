@@ -1,7 +1,7 @@
 {
   "name": "xdcpay-wallet-inpage-provider",
   "version": "1.2.3",
-  "description": "An ethereum provider that connects over a WebExtension port.",
+  "description": "An xdcpay provider that connects over a WebExtension port.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,18 +10,18 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/poanetwork/nifty-wallet-inpage-provider.git"
+    "url": "git+ssh://git@github.com/yodaplus/xdcpay-wallet-inpage-provider"
   },
   "keywords": [
     "MetaMask",
-    "NiftyWallet",
-    "Ethereum",
+    "xdcpay",
+    "XDC",
     "Provider"
   ],
   "bugs": {
-    "url": "https://github.com/poanetwork/nifty-wallet-inpage-provider/issues"
+    "url": "https://github.com/yodaplus/xdcpay-wallet-inpage-provider"
   },
-  "homepage": "https://github.com/poanetwork/nifty-wallet-inpage-provider#readme",
+  "homepage": "https://github.com/yodaplus/xdcpay-wallet-inpage-provider#readme",
   "dependencies": {
     "json-rpc-engine": "^5.0.0",
     "json-rpc-middleware-stream": "^2.1.1",
