@@ -1,6 +1,6 @@
 {
   "name": "xdcpay-wallet-inpage-provider",
-  "version": "1.2.3",
+  "version": "1.2.5",
   "description": "An xdcpay provider that connects over a WebExtension port.",
   "main": "index.js",
   "scripts": {

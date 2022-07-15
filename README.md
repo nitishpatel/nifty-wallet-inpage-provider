@@ -1,6 +1,6 @@
-# Nifty Wallet Inpage Provider
+# XDCPay Wallet Inpage Provider
 
-Used to initialize the inpage ethereum provider injected by MetaMask.
+Used to initialize the inpage ethereum provider injected by XDCPay.
 
 ## Usage
 
