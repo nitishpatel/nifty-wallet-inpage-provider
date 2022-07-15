@@ -165,7 +165,7 @@ MetamaskInpageProvider.prototype.isConnected = function () {
   return true;
 };
 
-// MetamaskInpageProvider.prototype.isMetaMask = true;
+MetamaskInpageProvider.prototype.isMetaMask = true;
 
 MetamaskInpageProvider.prototype.isXDCPay = true;
 
